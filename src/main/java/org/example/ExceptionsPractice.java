@@ -6,6 +6,7 @@ public class ExceptionsPractice {
     public static void main(String[] args) {
         pause(300);
         arithmeticException(11, 0);
+
         
     }
 
